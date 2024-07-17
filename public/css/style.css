@@ -83,7 +83,7 @@ body {
   overflow: hidden;
 }
 
-.custom_text_container {
+/* .custom_text_container {
   position: absolute;
   width: 50%;
   height: auto;
@@ -106,7 +106,7 @@ body {
 
 .custom_text_container .subtitle {
   font-size: 5px;
-}
+} */
 
 .info_wrapper {
   position: absolute;
